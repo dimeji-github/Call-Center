@@ -8,7 +8,7 @@ The Call Center Analysis Dashboard provides comprehensive insights into the perf
 To use this dashboard, you need:
 - Microsoft Excel 2016 or later.
 - Knowledge of navigating Excel dashboards.
-- 
+  
 ### Data Source
 Data is obtained from kaggle: https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice
 
